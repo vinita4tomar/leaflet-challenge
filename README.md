@@ -3,6 +3,6 @@ The leaflet-challenge project files:
 
 html - main folder
 
-javascript - .\static\js folder
+javascript - ./static/js folder
 
-stylesheet - .\static\css folder
+stylesheet - ./static/css folder
